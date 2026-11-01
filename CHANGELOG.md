@@ -50,7 +50,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Full API documentation
 - Type hints throughout
 
-[1.1.0]: https://github.com/ch-dev401/mongodb-query-builder/compare/v1.0.2...v1.1.0
-[1.0.2]: https://github.com/ch-dev401/mongodb-query-builder/compare/v1.0.1...v1.0.2
-[1.0.1]: https://github.com/ch-dev401/mongodb-query-builder/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/ch-dev401/mongodb-query-builder/releases/tag/v1.0.0
+[1.1.0]: https://github.com/ch923dev/mongodb-query-builder/compare/v1.0.2...v1.1.0
+[1.0.2]: https://github.com/ch923dev/mongodb-query-builder/compare/v1.0.1...v1.0.2
+[1.0.1]: https://github.com/ch923dev/mongodb-query-builder/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/ch923dev/mongodb-query-builder/releases/tag/v1.0.0

@@ -687,4 +687,4 @@ query = QueryFilter()
 - Check the [API Reference](api/query-filter.md) for detailed method documentation
 - Browse [Tutorials](tutorials/01-basic-queries.md) for step-by-step examples
 - See the [Troubleshooting Guide](troubleshooting.md) for common issues
-- Ask questions in [GitHub Discussions](https://github.com/ch-dev401/mongodb-query-builder/discussions)
+- Ask questions in [GitHub Discussions](https://github.com/ch923dev/mongodb-query-builder/discussions)

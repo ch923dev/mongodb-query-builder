@@ -22,7 +22,7 @@ pip install mongodb-query-builder[all]
 
 ```bash
 # Clone the repository
-git clone https://github.com/ch-dev401/mongodb-query-builder.git
+git clone https://github.com/ch923dev/mongodb-query-builder.git
 cd mongodb-query-builder
 
 # Install in development mode
@@ -38,7 +38,7 @@ pip install -e ".[dev,test]"
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ch-dev401/mongodb-query-builder.git
+   git clone https://github.com/ch923dev/mongodb-query-builder.git
    cd mongodb-query-builder
    ```
 

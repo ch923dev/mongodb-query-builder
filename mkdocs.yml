@@ -4,7 +4,7 @@ site_author: Christian De Asis
 site_url: https://mongodb-query-builder.readthedocs.io/
 
 repo_name: mongodb-query-builder
-repo_url: https://github.com/ch-dev401/mongodb-query-builder
+repo_url: https://github.com/ch923dev/mongodb-query-builder
 edit_uri: edit/main/docs/
 
 theme:
@@ -107,7 +107,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/ch-dev401/mongodb-query-builder
+      link: https://github.com/ch923dev/mongodb-query-builder
     - icon: fontawesome/brands/python
       link: https://pypi.org/project/mongodb-query-builder/
   version:

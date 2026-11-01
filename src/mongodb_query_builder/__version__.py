@@ -7,7 +7,7 @@ __license__ = "MIT"
 __description__ = (
     "A fluent, type-safe query builder for MongoDB with support for aggregations and Atlas Search"
 )
-__url__ = "https://github.com/ch-dev401/mongodb-query-builder"
+__url__ = "https://github.com/ch923dev/mongodb-query-builder"
 
 __all__ = [
     "__version__",
