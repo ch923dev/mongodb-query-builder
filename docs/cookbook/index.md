@@ -92,4 +92,4 @@ Have a great pattern or solution? We'd love to include it! Please:
 
 - Check the [API Reference](../api/query-filter.md) for detailed method documentation
 - Read the [User Guide](../tutorials/01-basic-queries.md) for comprehensive tutorials
-- Join our [community discussions](https://github.com/yourusername/mongodb-builder/discussions)
+- Ask questions or report bugs on [GitHub Issues](https://github.com/ch-dev401/mongodb-query-builder/issues)

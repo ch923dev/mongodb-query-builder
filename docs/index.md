@@ -4,7 +4,7 @@ A Python library for building MongoDB queries with a clean, intuitive API.
 
 [![PyPI version](https://badge.fury.io/py/mongodb-query-builder.svg)](https://badge.fury.io/py/mongodb-query-builder)
 [![Python versions](https://img.shields.io/pypi/pyversions/mongodb-query-builder.svg)](https://pypi.org/project/mongodb-query-builder/)
-[![License](https://img.shields.io/pypi/l/mongodb-query-builder.svg)](https://github.com/yourusername/mongodb-builder/blob/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/mongodb-query-builder.svg)](https://github.com/ch-dev401/mongodb-query-builder/blob/master/LICENSE)
 [![Documentation Status](https://readthedocs.org/projects/mongodb-query-builder/badge/?version=latest)](https://mongodb-query-builder.readthedocs.io/en/latest/?badge=latest)
 
 ## Overview
@@ -115,8 +115,8 @@ pip install mongodb-query-builder[motor]
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guide](https://github.com/yourusername/mongodb-builder/blob/main/CONTRIBUTING.md) for details.
+We welcome contributions! Please open an [issue](https://github.com/ch-dev401/mongodb-query-builder/issues) or pull request on GitHub.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/mongodb-builder/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ch-dev401/mongodb-query-builder/blob/master/LICENSE) file for details.

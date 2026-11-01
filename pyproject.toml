@@ -61,7 +61,7 @@ Homepage = "https://github.com/ch-dev401/mongodb-query-builder"
 Documentation = "https://mongodb-query-builder.readthedocs.io"
 Repository = "https://github.com/ch-dev401/mongodb-query-builder"
 "Bug Tracker" = "https://github.com/ch-dev401/mongodb-query-builder/issues"
-Changelog = "https://github.com/ch-dev401/mongodb-query-builder/blob/main/CHANGELOG.md"
+Changelog = "https://github.com/ch-dev401/mongodb-query-builder/blob/master/CHANGELOG.md"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
