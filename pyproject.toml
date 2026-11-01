@@ -4,17 +4,17 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mongodb-query-builder"
-version = "1.0.2"
+version = "1.1.0"
 description = "A fluent, type-safe query builder for MongoDB with support for aggregations and Atlas Search"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 keywords = ["mongodb", "query-builder", "aggregation", "atlas-search", "database", "fluent-api"]
 authors = [
-    {name = "Christian De Asis", email = "cdeasis923@gmail.comm"}
+    {name = "Christian De Asis", email = "cdeasis923@gmail.com"}
 ]
 maintainers = [
-    {name = "Christian De Asis", email = "cdeasis923@gmail.comm"}
+    {name = "Christian De Asis", email = "cdeasis923@gmail.com"}
 ]
 classifiers = [
     "Development Status :: 4 - Beta",

@@ -1,6 +1,6 @@
 site_name: MongoDB Query Builder
 site_description: A Python library for building MongoDB queries with a clean, intuitive API
-site_author: Your Name
+site_author: Christian De Asis
 site_url: https://mongodb-query-builder.readthedocs.io/
 
 repo_name: mongodb-query-builder

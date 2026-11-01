@@ -21,8 +21,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Improved Makefile Windows compatibility for clean commands
+- Author and maintainer email in package metadata
 
-## [1.0.2] - 2025-12-XX
+## [1.0.2] - 2025-10-06
 
 ### Added
 - Version checking and updating scripts
@@ -31,13 +32,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Documentation improvements
 
-## [1.0.1] - 2025-12-XX
+## [1.0.1] - 2025-10-04
 
 ### Fixed
 - README documentation links
 - Project configuration updates
 
-## [1.0.0] - 2025-12-XX
+## [1.0.0] - 2025-10-03
 
 ### Added
 - Initial release
