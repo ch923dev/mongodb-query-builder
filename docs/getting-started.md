@@ -25,7 +25,7 @@ pip install mongodb-query-builder[mongodb]
 For development or to run tests:
 
 ```bash
-git clone https://github.com/ch-dev401/mongodb-query-builder.git
+git clone https://github.com/ch923dev/mongodb-query-builder.git
 cd mongodb-query-builder
 pip install -e ".[dev,test]"
 ```
@@ -36,7 +36,7 @@ To install the library from source as a regular package (not in development mode
 
 ```bash
 # Clone the repository
-git clone https://github.com/ch-dev401/mongodb-query-builder.git
+git clone https://github.com/ch923dev/mongodb-query-builder.git
 cd mongodb-query-builder
 
 # Install as a package
@@ -56,13 +56,13 @@ You can also install directly from GitHub:
 
 ```bash
 # Install latest from main branch
-pip install git+https://github.com/ch-dev401/mongodb-query-builder.git
+pip install git+https://github.com/ch923dev/mongodb-query-builder.git
 
 # Install a specific version/tag
-pip install git+https://github.com/ch-dev401/mongodb-query-builder.git@v1.0.0
+pip install git+https://github.com/ch923dev/mongodb-query-builder.git@v1.0.0
 
 # Install a specific branch
-pip install git+https://github.com/ch-dev401/mongodb-query-builder.git@develop
+pip install git+https://github.com/ch923dev/mongodb-query-builder.git@develop
 ```
 
 ## Basic Concepts
@@ -322,8 +322,8 @@ Here's a quick reference of common operations:
 If you need help:
 
 - Check the [Troubleshooting Guide](troubleshooting.md)
-- Search existing [GitHub Issues](https://github.com/ch-dev401/mongodb-query-builder/issues)
-- Ask questions in the [Discussions](https://github.com/ch-dev401/mongodb-query-builder/discussions)
-- Report bugs via [GitHub Issues](https://github.com/ch-dev401/mongodb-query-builder/issues/new)
+- Search existing [GitHub Issues](https://github.com/ch923dev/mongodb-query-builder/issues)
+- Ask questions in the [Discussions](https://github.com/ch923dev/mongodb-query-builder/discussions)
+- Report bugs via [GitHub Issues](https://github.com/ch923dev/mongodb-query-builder/issues/new)
 
 Happy querying! 🚀

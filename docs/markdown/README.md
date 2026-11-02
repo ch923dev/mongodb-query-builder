@@ -60,7 +60,7 @@ pipeline = AggregateBuilder()
 - **New to MongoDB Query Builder?** Start with the [Getting Started Guide](getting-started.md)
 - **Looking for specific functionality?** Check the [API Reference](#api-reference)
 - **Need examples?** Browse the [Cookbook](#cookbook) *(coming soon)*
-- **Having issues?** Check our [GitHub Issues](https://github.com/ch-dev401/mongodb-query-builder/issues)
+- **Having issues?** Check our [GitHub Issues](https://github.com/ch923dev/mongodb-query-builder/issues)
 
 ## 📖 Documentation Versions
 
@@ -84,6 +84,6 @@ MongoDB Query Builder is released under the MIT License. See the [LICENSE](../..
 ---
 
 **Need help?** 
-- 📧 Open an issue on [GitHub](https://github.com/ch-dev401/mongodb-query-builder/issues)
-- 💬 Join our [community discussions](https://github.com/ch-dev401/mongodb-query-builder/discussions)
+- 📧 Open an issue on [GitHub](https://github.com/ch923dev/mongodb-query-builder/issues)
+- 💬 Join our [community discussions](https://github.com/ch923dev/mongodb-query-builder/discussions)
 - 📚 Read the [documentation](getting-started.md)
